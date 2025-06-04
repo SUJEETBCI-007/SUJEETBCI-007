@@ -2,6 +2,12 @@
 ![flamingtext_com-13431121370](https://github.com/user-attachments/assets/692f009a-eb35-4537-8426-4830a771e1c7)
 
 
+ ![Man Technologist Light Skin Tone](https://github.com/user-attachments/assets/5598fe67-1bef-496d-8781-1f4c29db5771)
+ 
+ Hello, World! 🌍 (BINDU COMPUTER INFORMATION TECHNOLOGY)
+
+Hi! I'm Sujeet Singh — a freelance penetration tester engaged in bug bounty programs and a cybersecurity student at ITMO University, Russia. I'm passionate about ethical hacking, vulnerability research, and reporting security flaws to companies. I also work with Wi-Fi networks and have hands-on experience with configuring routers, switches, hubs, and servers. With a background in network engineering and software development, I enjoy contributing to the cybersecurity community by sharing my knowledge and projects on GitHub. 🌐💡🥷👨‍💻
+
 <!--
 **SUJEETBCI-007/SUJEETBCI-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
