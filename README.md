@@ -1,48 +1,49 @@
 
 ![flamingtext_com-13431121370](https://github.com/user-attachments/assets/692f009a-eb35-4537-8426-4830a771e1c7)
 
-
- ![Man Technologist Light Skin Tone](https://github.com/user-attachments/assets/5598fe67-1bef-496d-8781-1f4c29db5771)
-
  Hello, World! 🌍 (BINDU COMPUTER INFORMATION TECHNOLOGY)
+
+ ![Man Technologist Light Skin Tone](https://github.com/user-attachments/assets/5598fe67-1bef-496d-8781-1f4c29db5771) 
+
+ Hi! I'm Sujeet Singh — a freelance penetration tester engaged in bug bounty programs and a cybersecurity student at ITMO University, Russia. I'm passionate about ethical hacking, vulnerability research, and reporting security flaws to companies. I also work with Wi-Fi networks and have hands-on experience with configuring routers, switches, hubs, and servers. With a background in network engineering and software development, I enjoy contributing to the cybersecurity community by sharing my knowledge and projects on GitHub. 🌐💡🥷👨‍💻
  
- <p align="center">
-    <a href="">
-        <img alt="GitHub release (latest by Sujeet)" src="https://img.shields.io/github/v/release/Sujeet/Sujeet?color=%23006400&label=Latest%20release&style=for-the-badge&sort=semver">
+ ![1Sujeetbci-007](https://github.com/user-attachments/assets/6274ca28-ff95-447d-a01e-09c1c086c172) ![Sujeetbci-007](https://github.com/user-attachments/assets/7aebef07-b5e5-4894-a638-f8d34758394b)
+
+
+<p align="center">
+    <a href="https://github.com/SUJEETBCI-007/releases">
+        <img alt="GitHub release (latest by Sujeet)" src="https://img.shields.io/github/v/release/SUJEETBCI-007/SUJEETBCI-007?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver">
     </a>
-    <a href="/LICENSE">
-        <img alt="GitHub license" src="https://img.shields.io/github/license/Sujeet/Sujeet?color=%23006400&style=for-the-badge">
+    <a href="https://github.com/SUJEETBCI-007/blob/main/LICENSE">
+        <img alt="GitHub license" src="https://img.shields.io/github/license/SUJEETBCI-007/SUJEETBCI-007?color=%2360be86&style=for-the-badge">
     </a>
-    <a href="">
-        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/Sujeet/Sujeet?color=%23006400&style=for-the-badge">
+    <a href="https://github.com/SUJEETBCI-007/graphs/contributors">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/SUJEETBCI-007/SUJEETBCI-007?color=%2360be86&style=for-the-badge">
     </a>
-    <a href="">
-        <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/Sujeet/Sujeet/master?color=%23006400&style=for-the-badge">
+    <a href="https://github.com/SUJEETBCI-007/actions">
+        <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/SUJEETBCI-007/SUJEETBCI-007/master?color=%2360be86&style=for-the-badge">
     </a>
-    <a href="">
-        <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/Sujeet/Sujeet/request:icon?color=%23006400&label=icon%20requests&style=for-the-badge">
+    <a href="https://github.com/SUJEETBCI-007/issues?q=is%3Aopen+is%3Aissue+label%3Arequest%3Aicon">
+        <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/SUJEETBCI-007/SUJEETBCI-007/request:icon?color=%2360be86&label=icon%20requests&style=for-the-badge">
     </a>
-    <a href="">
-        <img alt="GitHub repository stars" src="https://img.shields.io/github/stars/Sujeet/Sujeet?color=%23006400&label=github%20stars&style=for-the-badge">
+    <a href="https://github.com/SUJEETBCI-007/stargazers">
+        <img alt="GitHub repository stars" src="https://img.shields.io/github/stars/SUJEETBCI-007/SUJEETBCI-007?color=%2360be86&label=github%20stars&style=for-the-badge">
     </a>
-    <a href="">
-        <img alt="Registered logos" src="https://img.shields.io/github/directory-file-count/Sujeet/Sujeet/icons?color=%23006400&label=registered%20logos&style=for-the-badge">
+    <a href="https://github.com/SUJEETBCI-007/tree/main/icons">
+        <img alt="Registered logos" src="https://img.shields.io/github/directory-file-count/SUJEETBCI-007/SUJEETBCI-007/icons?color=%2360be86&label=registered%20logos&style=for-the-badge">
     </a>
 </p>
+
 
 <div align="center">
     <a href="">
         <div align="center">
     <a href="https://github.com/Sujeet">
-        <img src="https://raw.githubusercontent.com/Sujeet/Sujeet/main/icons/Sujeet/Sujeet-original-wordmark.svg" alt="Sujeet Logo" height="140" style="background-color:#000000; border-radius:10px;" />
+        <img src="icons/Sujeet/Sujeet-original-wordmark.svg" alt="Sujeet Logo" height="140" style="background-color:#000000; border-radius:10px;"/>
     </a>
 </div>
 
-    </a>
-</div>
 
-
-Hi! I'm Sujeet Singh — a freelance penetration tester engaged in bug bounty programs and a cybersecurity student at ITMO University, Russia. I'm passionate about ethical hacking, vulnerability research, and reporting security flaws to companies. I also work with Wi-Fi networks and have hands-on experience with configuring routers, switches, hubs, and servers. With a background in network engineering and software development, I enjoy contributing to the cybersecurity community by sharing my knowledge and projects on GitHub. 🌐💡🥷👨‍💻
 
 ## 📱 CONNECT WITH ME
 
@@ -82,7 +83,7 @@ Hi! I'm Sujeet Singh — a freelance penetration tester engaged in bug bounty pr
 ## 🏆 HALL OF FAME
 
 Below is a list of Hall of Fame acknowledgments where my contributions to cybersecurity have been recognized:
-
+<div align="left">
 <table>
   <tr>
    <a href="https://x.com/hacker_sujeet" target="_blank">
@@ -105,11 +106,11 @@ Below is a list of Hall of Fame acknowledgments where my contributions to cybers
    </a>
   </tr>
 </table>
-
+</div>
 
 
 ## 🧠 PRORAMMING SKILLS & LANGUAGES 
-<p align="center">
+<p align="left">
   <!-- Programming Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
