@@ -70,6 +70,8 @@
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yourname@protonmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
 [![Hangouts](https://img.shields.io/badge/Hangouts-0F9D58?style=for-the-badge&logo=googlehangouts&logoColor=white)](https://hangouts.google.com/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/SUJEETBCI-007)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/SUJEETBCI-007)
 
 <!-- New Badges -->
 [![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)](https://metasploit.help.rapid7.com/)
