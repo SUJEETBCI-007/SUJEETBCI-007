@@ -3,12 +3,48 @@
 
 
  ![Man Technologist Light Skin Tone](https://github.com/user-attachments/assets/5598fe67-1bef-496d-8781-1f4c29db5771)
- 
+
  Hello, World! 🌍 (BINDU COMPUTER INFORMATION TECHNOLOGY)
+ 
+ <p align="center">
+    <a href="">
+        <img alt="GitHub release (latest by Sujeet)" src="https://img.shields.io/github/v/release/Sujeet/Sujeet?color=%23006400&label=Latest%20release&style=for-the-badge&sort=semver">
+    </a>
+    <a href="/LICENSE">
+        <img alt="GitHub license" src="https://img.shields.io/github/license/Sujeet/Sujeet?color=%23006400&style=for-the-badge">
+    </a>
+    <a href="">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/Sujeet/Sujeet?color=%23006400&style=for-the-badge">
+    </a>
+    <a href="">
+        <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/Sujeet/Sujeet/master?color=%23006400&style=for-the-badge">
+    </a>
+    <a href="">
+        <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/Sujeet/Sujeet/request:icon?color=%23006400&label=icon%20requests&style=for-the-badge">
+    </a>
+    <a href="">
+        <img alt="GitHub repository stars" src="https://img.shields.io/github/stars/Sujeet/Sujeet?color=%23006400&label=github%20stars&style=for-the-badge">
+    </a>
+    <a href="">
+        <img alt="Registered logos" src="https://img.shields.io/github/directory-file-count/Sujeet/Sujeet/icons?color=%23006400&label=registered%20logos&style=for-the-badge">
+    </a>
+</p>
+
+<div align="center">
+    <a href="">
+        <div align="center">
+    <a href="https://github.com/Sujeet">
+        <img src="https://raw.githubusercontent.com/Sujeet/Sujeet/main/icons/Sujeet/Sujeet-original-wordmark.svg" alt="Sujeet Logo" height="140" style="background-color:#000000; border-radius:10px;" />
+    </a>
+</div>
+
+    </a>
+</div>
+
 
 Hi! I'm Sujeet Singh — a freelance penetration tester engaged in bug bounty programs and a cybersecurity student at ITMO University, Russia. I'm passionate about ethical hacking, vulnerability research, and reporting security flaws to companies. I also work with Wi-Fi networks and have hands-on experience with configuring routers, switches, hubs, and servers. With a background in network engineering and software development, I enjoy contributing to the cybersecurity community by sharing my knowledge and projects on GitHub. 🌐💡🥷👨‍💻
 
-## 📱 Connect with Me
+## 📱 CONNECT WITH ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
@@ -41,19 +77,82 @@ Hi! I'm Sujeet Singh — a freelance penetration tester engaged in bug bounty pr
 <!-- New BCI Logo Badge -->
 [![BCI](https://img.shields.io/badge/BCI-Institute-blue?style=for-the-badge&logo=devicon&logoColor=white&labelColor=000000&logoWidth=20&logo=https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg)](#)
 
-## 🔍 GitHub Profile Preview
 
-![GitHub Profile](./preview.png)
 
-## 📁 Repositories
-## 🛠️ Tools
-## 🏆 Hall of Fame
+## 🏆 HALL OF FAME
 
-## 🧠 Skills & Languages
+Below is a list of Hall of Fame acknowledgments where my contributions to cybersecurity have been recognized:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<table>
+  <tr>
+   <a href="https://x.com/hacker_sujeet" target="_blank">
+    <td><img src="https://img.shields.io/badge/2025-MICROSOFT-ff2800?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
+   </a>
+  </tr>
+  <tr>
+   <a href="https://x.com/hacker_sujeet" target="_blank">
+    <td><img src="https://img.shields.io/badge/2025-APPLE-007BC0?style=for-the-badge&logo=apple&logoColor=white" /></td>
+   </a>
+  </tr>
+  <tr>
+   <a href="https://x.com/hacker_sujeet" target="_blank">
+    <td><img src="https://img.shields.io/badge/2025-DELL-0051FF?style=for-the-badge&logo=dell&logoColor=white" /></td>
+   </a>
+  </tr>
+  <tr>
+   <a href="https://x.com/hacker_sujeet" target="_blank">
+    <td><img src="https://img.shields.io/badge/2025-ALIBABA-000000?style=for-the-badge&logo=alibaba&logoColor=white" /></td>
+   </a>
+  </tr>
+</table>
+
+
+
+## 🧠 PRORAMMING SKILLS & LANGUAGES 
+<p align="center">
+  <!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+</p>
+
+
+## WEB TECH
+<p align="left">
+  <!-- Web Tech -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
+</p>
+
+## OS & SHELL
+<p align="left">
+  <!-- OS & Shell -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
+
+## PENTEST & CYBERSECURITY
+<p align="left">
+  <!-- Pentest & Cybersecurity (custom badge style for tools without icons) -->
+  <img src="https://www.kali.org/images/favicon.svg" width="40" height="40" title="Kali Linux"/>
+  <img src="https://portswigger.net/favicon.ico" width="40" height="40" title="PortSwigger"/>
+</p>
+
+## VULNERABILITIES/TOOLS
+<p align="center">
+  <!-- Placeholder badges for vulnerabilities/tools -->
+  <img src="https://img.shields.io/badge/SQL-Injection-red?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/XSS-Cross%20Site%20Scripting-blue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/RCE-Remote%20Code%20Execution-yellow?style=for-the-badge" height="30"/>
+</p>
 
 <!--
 **SUJEETBCI-007/SUJEETBCI-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
