@@ -175,7 +175,7 @@ Here are some ideas to get you started:
     <a href="https://x.com/hacker_sujeet" target="_blank">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     </a>
-    <a href="[https://github.com/SUJEETBCI-007](https://www.youtube.com/@COMPUTERTRAININGINSTITUTE)" target="_blank">
+    <a href="https://www.youtube.com/@COMPUTERTRAININGINSTITUTE" target="_blank">
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
     </a>
 </div>
